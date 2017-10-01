@@ -1,0 +1,3 @@
+C:/Users/DeadPool/Desktop/OEVMiA/sfml.2/sfml2.1/CMakeFiles/edit_cache.dir
+C:/Users/DeadPool/Desktop/OEVMiA/sfml.2/sfml2.1/CMakeFiles/sfml2.1.dir
+C:/Users/DeadPool/Desktop/OEVMiA/sfml.2/sfml2.1/CMakeFiles/rebuild_cache.dir
